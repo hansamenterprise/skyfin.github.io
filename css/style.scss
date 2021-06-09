@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #EFEFEF;
+    font-family: 'Open Sans', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+.main {
+
+    h1 {
+        font-size: 72px;
+
+        span {
+            color: #ab0000;
+        }
+    }
+
+    p{
+        font-size: 24px;
+        font-weight: 700;
+    }
+}
+
+.services{
+    h3{
+        font-size: 22px;
+    }
+
+    p{
+        font-size: 15px;
+    }
+}
+
+.contact-us, .social-link{
+    p{
+        font-size: 15px;
+    }
+}
